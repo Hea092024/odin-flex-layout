@@ -30,6 +30,11 @@ body {
     gap: 16px;
   }
 
+  a {
+    color: #666;
+    text-decoration: none;
+  }
+
   input {
     border: 1px solid #ddd;
     border-radius: 16px;
