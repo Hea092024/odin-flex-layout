@@ -17,3 +17,10 @@ body {
     border-radius: 8px;
     background: #eee;
   }
+
+  input {
+    border: 1px solid #ddd;
+    border-radius: 16px;
+    padding: 8px 24px;
+    width: 400px;
+  }
