@@ -21,6 +21,15 @@ body {
     padding: 8px 16px;
   }
 
+  .content {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 16px;
+  }
+
   input {
     border: 1px solid #ddd;
     border-radius: 16px;
